@@ -92,3 +92,4 @@ backend/storage/metadata/*
 backend/storage/connections/*
 !backend/storage/connections/.gitkeep
 !backend/storage/connections/sample-sales-db.json
+

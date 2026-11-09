@@ -14,3 +14,4 @@ echo DataPilot AI is booting up!
 echo Backend:  http://127.0.0.1:8000 (Docs: http://127.0.0.1:8000/docs)
 echo Frontend: http://localhost:3000
 echo ===================================================
+

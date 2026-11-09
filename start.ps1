@@ -11,3 +11,4 @@ Start-Process powershell -ArgumentList "-NoExit", "-Command", "npm --prefix fron
 
 Write-Host "Backend launching at:  http://127.0.0.1:8000" -ForegroundColor Green
 Write-Host "Frontend launching at: http://localhost:3000" -ForegroundColor Green
+
