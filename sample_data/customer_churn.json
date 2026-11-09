@@ -1,0 +1,53 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "name": "David Miller",
+    "contract_type": "Two-Year",
+    "tenure_months": 34,
+    "monthly_charge": 89.5,
+    "total_charges": 3043.0,
+    "paperless_billing": true,
+    "churn_status": "Retained"
+  },
+  {
+    "customer_id": "CUST-002",
+    "name": "Sarah Connor",
+    "contract_type": "Month-to-Month",
+    "tenure_months": 4,
+    "monthly_charge": 65.0,
+    "total_charges": 260.0,
+    "paperless_billing": true,
+    "churn_status": "Churned"
+  },
+  {
+    "customer_id": "CUST-003",
+    "name": "Marcus Aurelius",
+    "contract_type": "One-Year",
+    "tenure_months": 18,
+    "monthly_charge": 110.25,
+    "total_charges": null,
+    "paperless_billing": false,
+    "churn_status": "Retained"
+  },
+  {
+    "customer_id": "CUST-004",
+    "name": "Elena Rostova",
+    "contract_type": "Month-to-Month",
+    "tenure_months": 2,
+    "monthly_charge": 54.8,
+    "total_charges": 109.6,
+    "paperless_billing": true,
+    "churn_status": "Churned"
+  },
+  {
+    "customer_id": "CUST-005",
+    "name": "Kenji Sato",
+    "contract_type": "Two-Year",
+    "tenure_months": 60,
+    "monthly_charge": 95.0,
+    "total_charges": 5700.0,
+    "paperless_billing": false,
+    "churn_status": "Retained"
+  }
+]
+
