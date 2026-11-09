@@ -1,0 +1,12 @@
+{
+  "id": "sample-sales-db",
+  "name": "Sample Sales & E-Commerce DB",
+  "db_type": "sqlite",
+  "database": "backend/storage/sample_sales.db",
+  "host": "localhost",
+  "port": null,
+  "username": null,
+  "is_readonly": true,
+  "password_encrypted": "",
+  "created_at": "2026-11-10T00:00:00Z"
+}
